@@ -1,0 +1,7 @@
+stubrunner:
+  stubsMode: remote
+  repositoryRoot: "http://127.0.0.1:8081/nexus/content/repositories/cc-release/"
+  idsToServiceIds:
+    # remove::start[]
+    producer: somenameforproducer
+    # remove::end[]
